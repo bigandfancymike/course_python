@@ -1,7 +1,6 @@
-x = 10
+x = 15
+y = 24
 
-#result = 'x is equal to {}'.format(x) #old
-
-result = f'x is equal to {x}'
+result = f'{y}xyz is equal to {x}'
 
 print(result)

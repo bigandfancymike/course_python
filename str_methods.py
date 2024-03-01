@@ -59,11 +59,17 @@
 # string = 'hello mark'
 # print(string.capitalize())
 
+#string = "hello world"
+#print(string.capitalize())
+
+#string = "hello world         "
+#print(string.strip())
+
 
 
 # - upper()
 
-# print(string.upper())
+#print(credo.upper())
 
 # - lower()
 
@@ -75,22 +81,21 @@
 
 # - lstrip(chars)
 # - rstrip(chars)
-# string = '  hello mark   '
-# print(string.rstrip())
-
+#string = '  hello mark   '
+#print(string.rstrip())
 
 # - split(sep=None)
 
-# string_for_split = 'Nikita,Diakov,27,Kiev'
-# print(string_for_split.split(',', 2))
+#string_for_split = 'Nikita,Diakov,27,Kiev'
+#print(string_for_split.split(',', 2))
 
 
 # - join(iterable)
 
 # - replace(old, new, count)
 
-string_for_split = 'Nikita,Diakov,27,Kiev'
-# print(string_for_split.replace(',', '|'))
+#string_for_split = 'Nikita,Diakov,27,Kiev'
+#print(string_for_split.replace('|', ','))
 
 
 # - find(sub, start, end)
@@ -103,6 +108,10 @@ string_for_split = 'Nikita,Diakov,27,Kiev'
 # - endswith(suffix, start, end)
 # - startswith(prefix, start, end)
 
+
+#random_strint = 'mykhailo iliashenko'
+##print(random_strint.capitalize())
+
 # print(string_for_split.startswith('N'))
 
 
@@ -113,9 +122,9 @@ string_for_split = 'Nikita,Diakov,27,Kiev'
 # - title()
 # - isdigit()
 
-my_number = '10'
+#my_number = '10'
 
-print(my_number.isdigit())
+#print(my_number.isdigit())
 
 # - islower()
 # - isupper()

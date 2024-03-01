@@ -12,38 +12,69 @@
 - copy() Повертає поверхневу копію списку.
 """
 
+#
+# list1 = [1, 2, 3, 566, 4]
+#
+# list2 = list1.copy()
+# print(list1)
+# print(list2)
 
-list1 = [1, 2, 3, 3, 33, 1, 5, 6, 9,]
+# list2 = [5,6]
+# #list1.extend(list2)
+#
+# #list1.insert(1, 'hello world')
+#
+# #list1.remove('hello world')
+# # list1.clear()
+# list1.sort(reverse=False)
+# print(list1)
 
-list1.append(3)
+# #list1.append(5)
+# list1.extend('hello')
+# print(list1)
 
-list2 = [3, 2, 1, 1]
-list1.extend(list2)
 
-list1.insert(2, 'new_item')
 
-list3 = list1.copy()
 
-print(list1)
+
+# list1 = [1, 2, 3, 3, 33, 1, 5, 6, 9,]
+#
+# list1.append(3)
+#
+# list2 = [3, 2, 1, 1]
+# list1.extend(list2)
+#
+# list1.insert(2, 'new_item')
+#
+# list3 = list1.copy()
+
+# print(list1)
+# print(list2)
+# print(list3)
+#
+#
+#
+#
+# # Slicing
+#
+#
+# list1 = [1, 2, 3, 3, 33, 1, 5, 6, 9]
+#
+#
+# # print(list1[ 'початок'    : "кінець"  :  "шаг"   ])
+#
+# list2 = list1[::]
+#
+# print(list1)
+# print(list2)
+#
+# # reverse
+#
+# print(list1[::-1])
+
+
+
+list1 = [1, 2, 3, 4, 5, 33, 66, 77]
+
+list2 =list1[::]
 print(list2)
-print(list3)
-
-
-
-
-# Slicing
-
-
-list1 = [1, 2, 3, 3, 33, 1, 5, 6, 9]
-
-
-# print(list1[ 'початок'    : "кінець"  :  "шаг"   ])
-
-list2 = list1[::]
-
-print(list1)
-print(list2)
-
-# reverse
-
-print(list1[::-1])
