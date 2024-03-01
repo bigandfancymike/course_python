@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de9ef649-6fda-49a7-92f0-e9ac31f0e5de" name="Changes" comment="hello world">
-      <change beforePath="$PROJECT_DIR$/operators_lesson2.py" beforeDir="false" afterPath="$PROJECT_DIR$/operators_lesson2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/course_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/course_python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +25,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "bigandfancymike"
+  }
+}]]></component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
     <option name="recentBranches">
@@ -55,6 +64,14 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="5aca8b4e-a292-4f7f-8898-92f9db0f86bb" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="5aca8b4e-a292-4f7f-8898-92f9db0f86bb" />
+        <option name="url" value="git@github.com:bigandfancymike/course_python.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -86,7 +103,7 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager">
     <configuration name="homework2_task3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="course_python" />
       <option name="ENV_FILES" value="" />
@@ -277,5 +294,16 @@
     </ignored-roots>
     <MESSAGE value="hello world" />
     <option name="LAST_COMMIT_MESSAGE" value="hello world" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/homework2_task3.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
