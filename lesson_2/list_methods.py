@@ -69,12 +69,17 @@
 # print(list2)
 #
 # # reverse
+
 #
 # print(list1[::-1])
 
 
 
-list1 = [1, 2, 3, 4, 5, 33, 66, 77]
+list1 = [1, 2, 3, 4, 5, 33, 66, 77, 'Few', [1, 2, 3], {3, 2, 1}]
 
-list2 =list1[::]
-print(list2)
+# list2 =list1[::]
+# print(list2)
+
+print(list1[0])
+
+print('list1', list1[-3][0])
