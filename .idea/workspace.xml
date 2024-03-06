@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="de9ef649-6fda-49a7-92f0-e9ac31f0e5de" name="Changes" comment="hello world">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hm3_task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/hm3_task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hm3_task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/hm3_task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hm3_task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/hm3_task3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/list_methods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/str_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/str_methods.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,36 +81,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.hm3_task1.executor": "Run",
-    "Python.hm3_task2.executor": "Run",
-    "Python.hm3_task3.executor": "Run",
-    "Python.hm3_task4.executor": "Run",
-    "Python.homework1.executor": "Run",
-    "Python.homework2.executor": "Run",
-    "Python.homework2_task1.executor": "Run",
-    "Python.homework2_task2.executor": "Run",
-    "Python.homework2_task3.executor": "Run",
-    "Python.lesson_2.executor": "Run",
-    "Python.lesson_3.executor": "Run",
-    "Python.lesson_4.executor": "Run",
-    "Python.lesson_4_loops.executor": "Run",
-    "Python.list_methods.executor": "Run",
-    "Python.main.executor": "Debug",
-    "Python.operators_lesson2.executor": "Run",
-    "Python.str_methods.executor": "Run",
-    "Python.tuple_method.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "dev",
-    "last_opened_file_path": "/Users/bigmike/course_python",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.hm3_task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hm3_task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hm3_task3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hm3_task4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework2_task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework2_task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.homework2_task3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw4_task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw4_task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw4_task3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw4_task4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw4_task5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw4_task6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hw4_task7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lesson_4_loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.operators_lesson2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.str_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple_method.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bigmike/course_python&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/lesson_3" />
+      <recent name="$PROJECT_DIR$/aqa_course/lesson_2" />
       <recent name="$PROJECT_DIR$/lesson_4" />
     </key>
   </component>
