@@ -81,41 +81,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.hm3_task1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hm3_task2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hm3_task3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hm3_task4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework2_task1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework2_task2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework2_task3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw4_task1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw4_task2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw4_task3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw4_task4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw4_task5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw4_task6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hw4_task7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lesson_4_loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list_methods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.operators_lesson2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.str_methods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.tuple_method.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/bigmike/course_python&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.hm3_task1.executor": "Run",
+    "Python.hm3_task2.executor": "Run",
+    "Python.hm3_task3.executor": "Run",
+    "Python.hm3_task4.executor": "Run",
+    "Python.homework1.executor": "Run",
+    "Python.homework2.executor": "Run",
+    "Python.homework2_task1.executor": "Run",
+    "Python.homework2_task2.executor": "Run",
+    "Python.homework2_task3.executor": "Run",
+    "Python.hw4_task1.executor": "Run",
+    "Python.hw4_task2.executor": "Run",
+    "Python.hw4_task3.executor": "Run",
+    "Python.hw4_task4.executor": "Run",
+    "Python.hw4_task5.executor": "Run",
+    "Python.hw4_task6.executor": "Run",
+    "Python.hw4_task7.executor": "Run",
+    "Python.lesson_2.executor": "Run",
+    "Python.lesson_3.executor": "Run",
+    "Python.lesson_4.executor": "Run",
+    "Python.lesson_4_loops.executor": "Run",
+    "Python.list_methods.executor": "Run",
+    "Python.main.executor": "Debug",
+    "Python.operators_lesson2.executor": "Run",
+    "Python.str_methods.executor": "Run",
+    "Python.tuple_method.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "hw4",
+    "last_opened_file_path": "/Users/bigmike/course_python",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
