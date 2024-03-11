@@ -100,6 +100,9 @@
     "Python.hw4_task5.executor": "Run",
     "Python.hw4_task6.executor": "Run",
     "Python.hw4_task7.executor": "Run",
+    "Python.hw5_task1.executor": "Run",
+    "Python.hw5_task2.executor": "Run",
+    "Python.hw5_task3.executor": "Run",
     "Python.lesson_2.executor": "Run",
     "Python.lesson_3.executor": "Run",
     "Python.lesson_4.executor": "Run",
@@ -130,7 +133,7 @@
       <recent name="$PROJECT_DIR$/lesson_4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.exception">
+  <component name="RunManager">
     <configuration name="exception" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="course_python" />
       <option name="ENV_FILES" value="" />
@@ -344,16 +347,5 @@
     </ignored-roots>
     <MESSAGE value="hello world" />
     <option name="LAST_COMMIT_MESSAGE" value="hello world" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/lesson_5/exception.py</url>
-          <line>146</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
