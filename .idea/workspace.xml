@@ -83,7 +83,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.annotations.executor": "Run",
     "Python.exception.executor": "Run",
+    "Python.function.executor": "Run",
     "Python.hm3_task1.executor": "Run",
     "Python.hm3_task2.executor": "Run",
     "Python.hm3_task3.executor": "Run",
@@ -100,19 +102,22 @@
     "Python.hw4_task5.executor": "Run",
     "Python.hw4_task6.executor": "Run",
     "Python.hw4_task7.executor": "Run",
+    "Python.hw5_task1.executor": "Run",
+    "Python.hw5_task2.executor": "Run",
+    "Python.hw5_task3.executor": "Run",
     "Python.lesson_2.executor": "Run",
     "Python.lesson_3.executor": "Run",
     "Python.lesson_4.executor": "Run",
     "Python.lesson_4_loops.executor": "Run",
     "Python.list_methods.executor": "Run",
-    "Python.main.executor": "Debug",
+    "Python.main.executor": "Run",
     "Python.operators_lesson2.executor": "Run",
     "Python.str_methods.executor": "Run",
     "Python.tuple_method.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "reworkedhomeworkfour",
+    "git-widget-placeholder": "dev",
     "last_opened_file_path": "/Users/bigmike/course_python/homework_4",
     "settings.editor.selected.configurable": "configurable.group.language"
   }
@@ -130,7 +135,7 @@
       <recent name="$PROJECT_DIR$/lesson_4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.exception">
+  <component name="RunManager">
     <configuration name="exception" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="course_python" />
       <option name="ENV_FILES" value="" />
@@ -344,16 +349,5 @@
     </ignored-roots>
     <MESSAGE value="hello world" />
     <option name="LAST_COMMIT_MESSAGE" value="hello world" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/lesson_5/exception.py</url>
-          <line>146</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
