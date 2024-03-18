@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de9ef649-6fda-49a7-92f0-e9ac31f0e5de" name="Changes" comment="hello world">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_6/annotations.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_6/annotations.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +85,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.annotations.executor": "Run",
+    "Python.built_in.executor": "Run",
     "Python.exception.executor": "Run",
+    "Python.func_2.executor": "Run",
     "Python.function.executor": "Run",
     "Python.hm3_task1.executor": "Run",
     "Python.hm3_task2.executor": "Run",
@@ -115,13 +117,14 @@
     "Python.lesson_4_loops.executor": "Run",
     "Python.list_methods.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.main_import.executor": "Run",
     "Python.operators_lesson2.executor": "Run",
     "Python.str_methods.executor": "Run",
     "Python.tuple_method.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "dev",
+    "git-widget-placeholder": "hw6",
     "last_opened_file_path": "/Users/bigmike/course_python/homework_4",
     "settings.editor.selected.configurable": "configurable.group.language"
   }
