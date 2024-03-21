@@ -34,10 +34,10 @@ file = open(file_path, mode='w' if not os.path.exists(file_path) else 'a')
 # class N:
 #     def __enter__(self):
 # __exit__
-
-result = range(100)
-
-with open(file_path, mode='w' if not os.path.exists(file_path) else 'a') as file:
-    for line in result:
-        file.write(str(line) + '\n')
+#
+# result = range(100)
+#
+# with open(file_path, mode='w' if not os.path.exists(file_path) else 'a') as file:
+#     for line in result:
+#         file.write(str(line) + '\n')
 
