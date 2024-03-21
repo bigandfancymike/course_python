@@ -25,16 +25,16 @@ from typing import Union,
 #
 # age: int = 20
 
-
-def count_words(data: Union[str, list], target_word: str = 'Failed') -> Optional[int]:
-    if isinstance(data, str):
-        return data.count(target_word)
-    elif isinstance(data, list):
-        return len([word for word in data if word.count(target_word) >= 1 ])
-    else:
-        return None
 #
-print(count_words(test_list))
+# def count_words(data: Union[str, list], target_word: str = 'Failed') -> Optional[int]:
+#     if isinstance(data, str):
+#         return data.count(target_word)
+#     elif isinstance(data, list):
+#         return len([word for word in data if word.count(target_word) >= 1 ])
+#     else:
+#         return None
+# #
+# print(count_words(test_list))
 
 
 
